@@ -42,7 +42,7 @@ Prerequisites
 
 Steps
 1. Clone the repository:
-   git clone https://github.com/ItsYash1421/ConnectApp.git
+[   git clone https://github.com/ItsYash1421/ConnectApp.git](https://github.com/aniketsharma04/ConnectApp)
    cd ConnectApp
 
 2. Install dependencies:
